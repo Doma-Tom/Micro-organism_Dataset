@@ -1,0 +1,24 @@
+Isolate code,Catalase,Citrate,Oxidase,Indole,Glucose,Lactose,MR,VP,TSIA,,,,Mobility,Gramm Stain,Suspected Organism
+,,,,,,,,,Butt,Slant,Gas,H2S,,,
+C1,+,+,-,-,+,+,-,+,A,A,+,-,+,#NAME?,Enterobacter Sp
+C2,+,+,-,+,+,-,+,-,A,B,+,+,+,#NAME?,Proteus Sp
+C3,+,+,-,-,+,+,-,+,A,A,+,-,+,#NAME?,Enterobacter Sp
+C4,+,-,-,-,+,-,-,+,A,B,-,-,+,#NAME?,Bacillus Sp
+C5,+,-,-,+,AG+,AG+,+,-,A,A,+,-,+,#NAME?,Escherichia Coli
+C6,+,+,-,-,+,-,-,+,A,B,-,-,+,#NAME?,Bacillus Sp
+C7,+,+,-,-,+,-,+,-,A,B,-,+,-,#NAME?,Salmonella Sp
+C8,+,+,-,+,+,+,+,-,A,B,+,+,+,#NAME?,Proteus Sp
+C9,+,+,-,-,+,-,-,+,A,A,-,-,-,#NAME?,Staphylococcus Sp
+C10,+,+,-,-,+,+,+,-,A,B,+,-,-,#NAME?,Citrobacter Sp
+C11,+,+,-,-,+,+,+,-,A,B,+,-,+,#NAME?,Citrobacter Sp
+C12,+,+,-,-,+,+,+,+,A,A,+,-,-,#NAME?,Enterobacter Sp
+C13,+,+,-,-,+,-,-,+,A,B,-,-,-,#NAME?,Bacillus Sp
+C14,+,+,-,-,+,-,+,-,A,B,+,+,-,#NAME?,Proteus Sp
+C15,+,+,-,-,+,+,-,+,A,A,+,-,-,#NAME?,Klebsiella Sp
+C16,+,+,-,-,+,-,+,-,A,B,-,+,-,#NAME?,Salmonella Sp
+C17,+,+,-,-,+,-,-,+,A,A,-,-,-,#NAME?,Staphylococcus Sp
+C18,+,-,-,-,+,-,-,+,A,B,-,-,-,#NAME?,Bacillus Sp
+C19,+,-,-,-,+,-,+,-,A,B,-,-,-,#NAME?,Shigella Sp
+C20,+,-,+,+,+,-,+,+,A,B,-,-,-,#NAME?,Pseudomonas Sp
+C21,+,+,-,-,+,+,-,+,A,A,+,-,+,#NAME?,Enterobacter Sp
+C22,+,+,-,-,+,+,+,+,A,B,-,-,-,#NAME?,Micrococcus Sp
